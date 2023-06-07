@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://ans-max.github.io/TheNetworker"
 title = "TheNetworker"
 theme = "hugo-coder"
 languageCode = "en"
@@ -18,8 +18,8 @@ author = "Anshuman Mukherjee"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Anshuman's TechBlog"
 keywords = "blog, network engineer"
-info = ["Network Engineer", "Architecht", "Automation"]
-avatarURL = "images/avatar.jpg"
+info = ["Network Engineer", "Architect", "Infrastructure Automation Engineer"]
+avatarURL = "/images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
@@ -134,37 +134,37 @@ icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/ans-max/"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
+#[[params.social]]
+#name = "Gitlab"
+#icon = "fa fa-2x fa-gitlab"
+#weight = 2
+#url = "https://gitlab.com/johndoe/"
 
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
+#[[params.social]]
+#name = "Twitter"
+#icon = "fa fa-2x fa-twitter"
+#weight = 3
+#url = "https://twitter.com/johndoe/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://linkedin.com/in/anshuman-mukherjee-6102808/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
+#[[params.social]]
+#name = "Medium"
+#icon = "fa fa-2x fa-medium"
+#weight = 5
+#url = "https://medium.com/@johndoe"
 
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+#[[params.social]]
+#name = "RSS"
+#icon = "fa fa-2x fa-rss"
+#weight = 6
+#url = "https://myhugosite.com/index.xml"
+#rel = "alternate"
+#type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
