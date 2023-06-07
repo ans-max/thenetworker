@@ -1,0 +1,9 @@
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "themes/hugo-eureka"]
+	path = themes/hugo-eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
