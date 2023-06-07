@@ -1,4 +1,4 @@
-baseURL = "https://ans-max.github.io/TheNetworker"
+baseURL = "https://ans-max.github.io/thenetworker"
 title = "TheNetworker"
 theme = "hugo-coder"
 languageCode = "en"
@@ -19,7 +19,7 @@ author = "Anshuman Mukherjee"
 description = "Anshuman's TechBlog"
 keywords = "blog, network engineer"
 info = ["Network Engineer", "Architect", "Infrastructure Automation Engineer"]
-avatarURL = "/images/avatar.jpg"
+avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
