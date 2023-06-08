@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2023-06-05T15:38:16+05:30
-title = "Golang and IP Addresses"
+title = "IP Addressing in Go"
 description = "Working with ip addresses in Golang"
 slug = ""
 authors = []
