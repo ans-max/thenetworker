@@ -14,7 +14,7 @@ math = true
 
 AWS is a leading cloud infrastructure platform that offers a wide range of services for SaaS, PaaS, and other aaS solutions. As one of the first cloud providers, Amazon has had the time and resources to develop a comprehensive set of services that can meet the needs of individual developers and businesses of all sizes.
 
-![image](/static/images/aws.jpg)
+![image](/images/aws.jpg)
 
 For someone with experience in IT infrastructure, such as managing networks and servers, the AWS Solutions Architect certification is a great introduction to AWS cloud services and their use cases. I passed my exam on Jun 23 2023, and below are the resources and methods i followed to achieve the same, 
 
