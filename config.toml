@@ -7,7 +7,7 @@ paginate = 20
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-
+canonifyURLs = true
 [markup.highlight]
 style = "doom-one"
 lineNos=true
