@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2023-06-26T15:55:22+05:30
-title = "How I preped for AWS Solutions Architecht"
-description = "How I preped for AWS Solutions Architecht"
+title = "How I preped for AWS Solutions Architect"
+description = "How I preped for AWS Solutions Architect"
 slug = ""
 authors = ['anshuman mukherjee']
 tags = ['aws','Solutions Architect','saa-c03']
